@@ -34,12 +34,12 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-   1. Semantic essentially gives clues to the reader of the code of what is inside of that block of code - for example, <div> doesn't say anything besides "hey, here's a block of code". This makes it non-semantic HTML. Whereas having <nav> clearly states what the content relates to the navigation of a page. This makes it semantic HTML.
+   1. Semantic essentially gives clues to the reader of the code of what is inside of that block of code - for example, div doesn't say anything besides "hey, here's a block of code". This makes it non-semantic HTML. Whereas having nav clearly states what the content relates to the navigation of a page. This makes it semantic HTML.
 
 2. Name two big differences between `display: block;` and `display: inline;`.
 
-   1. Inline elements do not start on a new line and only take up as much width as necessary. Examples are <br> and <a>.
-   2. Block-level elements take up full width available and has a top bottom margin. Examples are <div> and <p>.
+   1. Inline elements do not start on a new line and only take up as much width as necessary. Examples are br and a.
+   2. Block-level elements take up full width available and has a top bottom margin. Examples are div and p.
 
 3. What are the 4 areas of the box model?
 
